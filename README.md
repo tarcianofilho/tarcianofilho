@@ -16,8 +16,8 @@ I'm just a developer studying Frontend Development, focusing on JavaScript, HTML
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tarcianofilho&show_icons=true&theme=dark"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcianofilho&layout=compact&theme=dark"/>
 </div>
-[![Tarciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcianofilho&theme=dark&layout=compact)](https://github.com/tarcianofilho/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcianofilho&theme=dark&layout=compact)](https://github.com/tarcianofilho/github-readme-stats)
+<!-- [![Tarciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcianofilho&theme=dark&layout=compact)](https://github.com/tarcianofilho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcianofilho&theme=dark&layout=compact)](https://github.com/tarcianofilho/github-readme-stats) -->
 
 ## What I'm skilled at
 <div>
