@@ -22,6 +22,14 @@ I'm just a developer studying Frontend Development, focusing on JavaScript, HTML
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
+
+## Contact me
+<div>
+  <a href = "mailto:imtarciano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tarciano-de-aragao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+![Snake animation](https://github.com/tarcianofilho/tarcianofilho/blob/output/github-contribution-grid-snake.svg)
 <!--
 **tarcianofilho/tarcianofilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
