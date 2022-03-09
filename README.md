@@ -14,6 +14,14 @@ I'm just a developer studying Frontend Development, focusing on JavaScript, HTML
 [![Tarciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcianofilho&theme=dark&layout=compact)](https://github.com/tarcianofilho/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcianofilho&theme=dark&layout=compact)](https://github.com/tarcianofilho/github-readme-stats)
 
+## What I'm skilled at
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</div>
 <!--
 **tarcianofilho/tarcianofilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
