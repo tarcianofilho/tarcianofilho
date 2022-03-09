@@ -11,11 +11,9 @@ I'm just a developer studying Frontend Development, focusing on JavaScript, HTML
 </div>
 
 ## Check my stats
-<div>
-<a href="https://github.com/tarcianofilho">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcianofilho&layout=compact&langs_count=7&theme=dracula" style="max-width:350px;width:50%"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarcianofilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width:350px;width:50%"/>
-</div>
+[![Tarciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcianofilho)](https://github.com/tarcianofilho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tarcianofilho)](https://github.com/tarcianofilho/github-readme-stats)
+
 <!--
 **tarcianofilho/tarcianofilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
