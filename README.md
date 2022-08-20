@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Tarciano 👋</h1>
 
 # About me
-I'm just a developer studying Frontend Development, focusing on JavaScript, HTML and CSS. Also working well with tools like VS Code and Git to improve my portfolio.
+I'm just a data science student, focusing on Python. Also working well with tools like VS Code and Git to improve my portfolio.
 
 ## What I'm using right now
 <div>
